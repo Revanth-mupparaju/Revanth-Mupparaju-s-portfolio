@@ -58,8 +58,9 @@ ul li a:hover{
   margin: auto;
 }
 
-.title{
+/*.title{
   position: absolute;
+  
   top: 70%;
   left: 50%;
   transform: translate(-50%,-50%);
@@ -70,4 +71,11 @@ ul li a:hover{
   font-size: 45px;
   padding: 5px 20px;
 
+}*/
+h1{
+  color: #fff;
+  padding-top: 250px;
+  width: 100%;
+  text-align: center;
+  font-size: 45px;
 }
